@@ -1,6 +1,5 @@
 # ignore large data set files due to github size limits
-2017-fordgobike-tripdata.csv
-201904-fordgobike-tripdata.csv
+*tripdata.csv
 
 # ignore checkpoint files
 *checkpoint.ipynb
