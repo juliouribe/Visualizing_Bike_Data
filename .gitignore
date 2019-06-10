@@ -3,3 +3,6 @@
 
 # ignore checkpoint files
 *checkpoint.ipynb
+
+# ignore master data set
+bikes_master.csv
