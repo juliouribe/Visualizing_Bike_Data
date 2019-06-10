@@ -6,3 +6,6 @@
 
 # ignore master data set
 bikes_master.csv
+
+# ignore cleaning data file (mostly for experimenting)
+Cleaning_Data.ipynb
